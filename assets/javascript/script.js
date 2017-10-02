@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-    var topics = ["horse", "birds", "turtles", "chickens"];
+    var topics = ["cats", "dogs", "turtles", "monkeys"];
    
     function buttonShow(){
         $("#display-btns").empty();
